@@ -1,0 +1,14 @@
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\bin\Debug\netcoreapp3.1\Class3_Task1.exe
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\bin\Debug\netcoreapp3.1\Class3_Task1.deps.json
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\bin\Debug\netcoreapp3.1\Class3_Task1.runtimeconfig.json
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\bin\Debug\netcoreapp3.1\Class3_Task1.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\bin\Debug\netcoreapp3.1\Class3_Task1.dll
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\bin\Debug\netcoreapp3.1\Class3_Task1.pdb
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.AssemblyInfo.cs
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.dll
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.pdb
+C:\Users\natal\Desktop\Seavus\04-Basic C#\Homework\Class3\Class3_Task1\obj\Debug\netcoreapp3.1\Class3_Task1.genruntimeconfig.cache
