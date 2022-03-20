@@ -18,7 +18,7 @@ namespace Class3_Task2
                 switch (parsedNumber)
                 {
                     case 1:
-                        Console.WriteLine("G1-students:");
+                        Console.WriteLine(" G1-students:");
                         foreach (string name in studentsGroupOne)
                         {
                             Console.WriteLine(name);
@@ -26,7 +26,7 @@ namespace Class3_Task2
                         break;
 
                     case 2:
-                        Console.WriteLine("G2-students:");
+                        Console.WriteLine(" G2-students:");
                         foreach (string name in studentsGroupTwo)
                         {
                             Console.WriteLine(name);
