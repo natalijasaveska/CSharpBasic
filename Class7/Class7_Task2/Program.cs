@@ -6,6 +6,7 @@ namespace Class7_Task2
     {
         static void Main(string[] args)
         {
+
             Employee[] company = {
                 new Contractor("Jack","Johnson",139.5,20),
                 new Contractor("Noah","Williams",141,20),
@@ -14,9 +15,10 @@ namespace Class7_Task2
                 new SalesPerson("Oliver","Taylor")
             };
 
-            CEO ceo = new CEO("Jacob", "Davies", company, 100);
-            ceo.PrintCEOInfo();
 
+            CEO firstCeo = new CEO("Jacob", "Davies", company, 100);
+
+            firstCeo.PrintCEOInfo();
 
         }
     }

@@ -11,7 +11,6 @@ namespace Class7_Task1
         protected double Salary { get; set; }
         public Role Role { get; set; }
 
-
         public Employee(string firstName, string lastName, double salary, Role role)
         {
             FirstName = firstName;
@@ -19,6 +18,7 @@ namespace Class7_Task1
             Salary = salary;
             Role = role;
         }
+
 
         public void PrintInfo()
         {

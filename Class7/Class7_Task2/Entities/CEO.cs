@@ -30,6 +30,7 @@ namespace Class7_Task2
                 employee.PrintInfo();
             }
         }
+
         public override double GetSalary()
         {
             Salary += Shares * _sharesPrice;

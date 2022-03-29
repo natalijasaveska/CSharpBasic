@@ -7,10 +7,13 @@ namespace Class7_Task1
     public class SalesPerson : Employee
     {
         private double _successSaleRevenue;
+
         public SalesPerson(string firstName, string lastName) : base(firstName, lastName, 500, Role.Sales)
         {
 
         }
+
+
         public void AddSuccessRevenue(double successSaleRevenue)
         {
             _successSaleRevenue = successSaleRevenue;

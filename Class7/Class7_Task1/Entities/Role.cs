@@ -12,5 +12,6 @@ namespace Class7_Task1
         Sales,
         Contractor,
         ContractorManager
+
     }
 }

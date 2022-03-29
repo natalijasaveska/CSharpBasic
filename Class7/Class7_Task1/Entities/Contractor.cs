@@ -8,9 +8,7 @@ namespace Class7_Task1
     {
         public double WorkHours { get; set; }
         public int PayPerHour { get; set; }
-
         public Employee Responsible { get; set; }
-
 
         public Contractor(string firstName, string lastName,double salary,double workHours, int payPerHour,Employee responsibleEmployee) : base(firstName, lastName,salary,Role.Contractor)
         {
@@ -18,6 +16,7 @@ namespace Class7_Task1
             PayPerHour = payPerHour;
             Responsible = responsibleEmployee;
         }
+
 
         public override double GetSalary()
         {
@@ -27,7 +26,7 @@ namespace Class7_Task1
 
         public void CurrentPosition()
         {
-            Console.WriteLine($"{Responsible.FirstName} {Responsible.LastName} is responsible or ({Responsible.Role}) for (of) the {Role}, {FirstName} {LastName}");
+            Console.WriteLine($"{Responsible.FirstName} {Responsible.LastName} is responsible ({Responsible.Role}) for (of) the {Role}, {FirstName} {LastName}");
         }
 
     }

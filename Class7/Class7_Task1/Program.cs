@@ -6,16 +6,18 @@ namespace Class7_Task1
     {
         static void Main(string[] args)
         {
-            Employee manager = new Employee("Savannah", "Hurtado", 2000, Role.Manager);
-            manager.PrintInfo();
+            Employee firstManager = new Employee("Savannah", "Hurtado", 2000, Role.Manager);
+            firstManager.PrintInfo();
 
-            Employee sales = new Employee("Nathaniel", "Brandon", 1000, Role.Sales);
-            sales.PrintInfo();
+
+            Employee firstSalesPerson = new Employee("Nathaniel", "Brandon", 1000, Role.Sales);
+            firstSalesPerson.PrintInfo();
         
-            Contractor contractor = new Contractor("LJ","Smith",0,127.5,20,new Employee("Spencer","Montgomery",2350,Role.ContractorManager));
-            contractor.GetSalary();
-            contractor.PrintInfo();
-            contractor.CurrentPosition();
+
+            Contractor firstContractor = new Contractor("LJ","Smith",0,127.5,20,new Employee("Spencer","Montgomery",2350,Role.ContractorManager));
+            firstContractor.GetSalary();
+            firstContractor.PrintInfo();
+            firstContractor.CurrentPosition();
 
         }
     }
